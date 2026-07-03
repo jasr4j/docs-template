@@ -1,3 +1,5 @@
+## THE FOLLOWING TOOL WILL NOT BE UPDATED TO THE NEW UI, BUT THE REPOSITORY WILL REMAIN OPEN TO THOSE WHO WANT CLEAN FORMATTED WEBSITES WITHOUT ANY CODING. THIS IS NOW BASED ON THE LEGACY FILE IN THE MAIN WEBSITE: https://jasr4j.github.io. THANK YOU!
+
 # docs-template
 
 Template for websites and documentation pages in the style of [jasr4j.github.io](https://jasr4j.github.io/)
